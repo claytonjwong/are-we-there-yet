@@ -1,0 +1,24 @@
+{
+  "name": "are-we-there-yet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm i && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claytonjwong/are-we-there-yet.git"
+  },
+  "author": "clayton wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claytonjwong/are-we-there-yet/issues"
+  },
+  "homepage": "https://github.com/claytonjwong/are-we-there-yet#readme",
+  "dependencies": {
+    "is-ten-thousand": "^0.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
